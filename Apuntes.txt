@@ -1,0 +1,9 @@
+git status
+git add file_name (git add .) --> agregar archivos al working directory
+git commit (git commit -m "message") --> Agregar archivos del working directory al repositorio
+git rm --cached file_name --> eliminar archivo comiteado del repositorio
+git rm -r --cached name_directory --> Eliminar directorio del repositorio
+git branch --> Muestra las ramas y ubicación actual
+git branch name_alternative_version --> para crear versión alternativa
+git checkout name_branch --> mover a otra rama
+git checkout -- file_name --> Para descartar los cambios
