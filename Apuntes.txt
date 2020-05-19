@@ -7,3 +7,4 @@ git branch --> Muestra las ramas y ubicación actual
 git branch name_alternative_version --> para crear versión alternativa
 git checkout name_branch --> mover a otra rama
 git checkout -- file_name --> Para descartar los cambios
+git clone --> para clonar proyecto
